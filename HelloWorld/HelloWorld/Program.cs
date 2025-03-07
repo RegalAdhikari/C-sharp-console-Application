@@ -1,4 +1,5 @@
 ﻿using System;
+using HelloWorld.Properties;
 
 namespace HelloWorld
 {
@@ -34,8 +35,8 @@ namespace HelloWorld
             Console.WriteLine(s);
             Console.WriteLine(j);
             Console.WriteLine(i);
-            
-            
+
+            Regal.Sub(args);
 
         }
     }
