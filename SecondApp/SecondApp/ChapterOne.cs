@@ -1,4 +1,4 @@
-﻿namespace HelloWorld;
+﻿namespace SecondApp;
 
 public class ChapterOne
 {
@@ -11,7 +11,31 @@ public class ChapterOne
         // byte b = (byte)i;
         // Console.WriteLine(b);
         var number = "1234";
-        int i = int.Parse(number);
+        int i = int.Parse(number); //non compatiable 
         Console.WriteLine(i);
+
+    }
+
+    public static void Try(string[] args)
+    {
+        try
+        {
+            var number = "1234";
+            byte b = Convert.ToByte(number); 
+            Console.WriteLine(b);
+        }
+        catch (Exception)
+        {
+            Console.WriteLine("The number could not convert to a byte.");
+        }
+    }
+
+    public static void Operator(string[] args)
+    {
+        var a = 10;
+        var b = 4;
+        var c = 3;
+        Console.WriteLine((a + b)*c );
+        Console.WriteLine(c>b && c>a);
     }
 }

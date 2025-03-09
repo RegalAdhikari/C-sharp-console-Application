@@ -1,11 +1,21 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using System;
 
-namespace HelloWorld
+using HelloWorld;
+
+namespace SecondApp
 {
     internal class Program
     {
         public static void Main(string[] args)
+        {
+            // ChapterOne.ChapOne(args);
+            // ChapterOne.Try(args);
+            // First(args);
+            // ChapterOne.Operator(args);
+            ChapterTwo.ChapterTwoMain(args);
+        }
+
+        public static void First(string[] args)
         {
             // Console.WriteLine("Hello World");
             byte number = 2;
@@ -35,11 +45,7 @@ namespace HelloWorld
             Console.WriteLine(s);
             Console.WriteLine(j);
             Console.WriteLine(i);
-
-
-            ChapterOne.ChapOne(args);
         }
-        
     }
 }
 
