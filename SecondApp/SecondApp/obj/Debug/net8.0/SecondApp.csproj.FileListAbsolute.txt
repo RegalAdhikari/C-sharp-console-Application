@@ -1,0 +1,15 @@
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\bin\Debug\net8.0\SecondApp.exe
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\bin\Debug\net8.0\SecondApp.deps.json
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\bin\Debug\net8.0\SecondApp.runtimeconfig.json
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\bin\Debug\net8.0\SecondApp.dll
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\bin\Debug\net8.0\SecondApp.pdb
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.AssemblyInfoInputs.cache
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.AssemblyInfo.cs
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.csproj.CoreCompileInputs.cache
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.sourcelink.json
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.dll
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\refint\SecondApp.dll
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.pdb
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\SecondApp.genruntimeconfig.cache
+D:\GithubProjects\Github Projects\C-sharp-console-Application\SecondApp\SecondApp\obj\Debug\net8.0\ref\SecondApp.dll

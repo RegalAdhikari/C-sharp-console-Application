@@ -4,3 +4,5 @@ D:\C-sharp-console-Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj
 D:\C-sharp-console-Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 D:\C-sharp-console-Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\C-sharp-console-Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\GithubProjects\Github Projects\C-sharp-console-Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\GithubProjects\Github Projects\C-sharp-console-Application\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
