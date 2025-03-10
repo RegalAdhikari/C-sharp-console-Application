@@ -8,6 +8,13 @@ namespace HelloWorld
         public static void Main(string[] args)
         {
             // Console.WriteLine("Hello World");
+           
+            // First(args);
+            Regal.Sub(args);
+            // Regal.Operators(args);
+        }
+        public static void First(string[] args)
+        {
             byte number= 2 ;
             int count = 10;
             float totalPrice = 20.50f;
@@ -35,9 +42,6 @@ namespace HelloWorld
             Console.WriteLine(s);
             Console.WriteLine(j);
             Console.WriteLine(i);
-
-            Regal.Sub(args);
-
         }
     }
 }
