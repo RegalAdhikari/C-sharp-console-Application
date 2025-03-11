@@ -1,6 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 
-using HelloWorld;
+using SecondApp.Math;
 
 namespace SecondApp
 {
@@ -12,7 +12,36 @@ namespace SecondApp
             // ChapterOne.Try(args);
             // First(args);
             // ChapterOne.Operator(args);
-            ChapterTwo.ChapterTwoMain(args);
+            
+            // ChapterTwo.ChapterTwoMain(args);
+            // int result = Calculator.Add(3, 4);
+            // Console.WriteLine(result);
+            
+            // Calculator.Arrays();
+            // Calculator.Strings();
+            
+        /*
+             var method = ShippingMethod.Express;
+             Console.WriteLine((int)method);
+             var methodId = 3;
+             Console.WriteLine((ShippingMethod)methodId);
+             Console.WriteLine(method.ToString());
+
+             var methodName = "RegularAirMail";
+             var shippingMethod =(ShippingMethod) Enum.Parse(typeof(ShippingMethod), methodName);
+             Console.WriteLine(shippingMethod);
+        */    
+         
+        // Calculator.Value();
+
+        var number = 1;
+        Person.Increment(number);
+        Console.WriteLine(number);
+
+        var person = new Person() { Age = 20 };
+        Person.MakeOld(person);
+        Console.WriteLine(person.Age);
+        
         }
 
         public static void First(string[] args)
