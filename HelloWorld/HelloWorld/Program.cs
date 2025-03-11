@@ -7,11 +7,17 @@ namespace HelloWorld
     {
         public static void Main(string[] args)
         {
-            // Console.WriteLine("Hello World");
-           
+            var number = 1;
+            Person.Increment(number);
+            Console.WriteLine(number);
+
+            var person = new Person() { Age = 20 };
+            Person.MakeVoid(person);
+            Console.WriteLine(person.Age);
             // First(args);
             Regal.Sub(args);
             // Regal.Operators(args);
+            
         }
         public static void First(string[] args)
         {

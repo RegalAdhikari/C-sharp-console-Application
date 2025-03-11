@@ -30,7 +30,8 @@ namespace HelloWorld.Properties
             Console.WriteLine(shippingMethod);
             */
             
-            Calculator.Value();
+            // Calculator.Value();
+            // Calculator.Add(2,3);
         }
         public static void Operators(string[] args)
         {
@@ -50,4 +51,5 @@ namespace HelloWorld.Properties
             Console.WriteLine(d == c);
         }
     }
+    
 }

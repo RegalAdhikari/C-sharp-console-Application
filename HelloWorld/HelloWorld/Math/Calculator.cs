@@ -11,7 +11,7 @@ namespace HelloWorld.Math
     }
     public class Calculator
     {
-        public int Add(int a, int b)
+        public static int Add(int a, int b)
         {
             return a + b;
         }
@@ -34,8 +34,6 @@ namespace HelloWorld.Math
             Console.WriteLine(names[0]);
             Console.WriteLine(names[1]);
             Console.WriteLine(names[2]);
-            
-            
         }
 
         public static void Strings()
