@@ -1,5 +1,4 @@
-﻿using HelloWorld;
-using SecondApp.Math;
+﻿using SecondApp.Math;
 
 namespace SecondApp;
 
@@ -12,8 +11,5 @@ public class ChapterTwo
         p1.LastName = "Smith";
         p1.Introduce();
         
-        var calculator = new Calculator();
-        var result= calculator.Add(1, 2);
-        Console.WriteLine(result);
     }
 }
